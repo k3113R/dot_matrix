@@ -1,5 +1,4 @@
-import random as rd
-import numpy as np
+
 st1 = "AGCTAGGA"
 st2 = "GACTAGGC"
 
@@ -31,9 +30,3 @@ for i in range(len(mtrx4)):
 
 print(f"Length of one side(X) in Dot Matrix: {len(st1)}")
 print(f"Length of the Dot Matrix: {len(mtrx)}")
-
-# for y in range(len(lst2)):
-# 	print([(rows[x], col[y]) for x in range(len(st2))])
-
-# cimbals = {}
-# with open("") as f:
